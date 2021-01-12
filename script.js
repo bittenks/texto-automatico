@@ -1,15 +1,21 @@
-const text = "HELLO FRIEND                  ";
+
 
 let index = 0;
 
+
+const frase = "HELLO FRIEND                  ";
+
+
 function writeText() {
-    document.body.innerText = text.slice(0, index);
+    document.body.innerText = frase.slice(0, index);
 
     index++;
 
-    if (index > text.length) {
+    if (index > frase.length) {
         index = 0;
     }
 }
 
 setInterval(writeText, 100);
+
+
