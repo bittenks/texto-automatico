@@ -1,11 +1,9 @@
 
 
-let index = 0;
 
 
 const frase = "HELLO FRIEND                  ";
-
-
+index = 0 ;
 function writeText() {
     document.body.innerText = frase.slice(0, index);
 

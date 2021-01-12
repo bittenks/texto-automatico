@@ -14,10 +14,13 @@ body {
     font-family: Helvetica, sans-serif, sans-serif;
     margin: 0;
     min-height: 100vh;
+    
 }
 
 
 footer {
+    font: inherit;
+    color: white;
     grid-area: f / f / f / f;
     display: flex;
     -webkit-box-align: center;
@@ -26,4 +29,5 @@ footer {
     justify-content: center;
     position: fixed;
     bottom: 0;
+    
 }
