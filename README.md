@@ -1,4 +1,4 @@
-# texto-automatico
+# TEXTO AUTOMÁTICO
 
 Um texto automático simples <br/>
 ## O QUE EU APRENDI <br/>
