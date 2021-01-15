@@ -9,3 +9,5 @@ de apenas aprimorar o meu conhecimento.
 
 Prévia do projeto
 https://bittenks.github.io/texto-automatico/
+
+![alt text](https://github.com/bittenks/texto-automatico/blob/main/hello-friend.gif)
